@@ -31,3 +31,4 @@ SubAnswer is a knowledge-sharing platform based on a distributed graph-network, 
 * Be a learning platform
 * Improve programming speed
 * Educate based knowledge level (word use / technical terms, prior knowledge) 
+* Interactive
