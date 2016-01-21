@@ -15,6 +15,7 @@ Here is some of the goals for Tomato:
 * Improve network transfer speed
 * Reduce mobile device cost
 * Low power consumption
+
 * Improve battery time on wireless/mobile devices (on the magnitude of over 1000x compared to existing solution)
 * Use simple low cost existing hardware
 * Use existing infrastructure, with an addition layer and management
@@ -24,6 +25,16 @@ Here is some of the goals for Tomato:
 * No speed limitations, only optimization
 * No to very limited need for knowledge to get started
 
+Tomato can change how we know these services/companies/products today:
+* Dropbox(cloud backup)
+* Amazon Cloud (webhosting, infrastructure, memory, processor)
+* Netflix, Spotify (content/licence management, streaming)
+* iPhone, Andorid, and other smartphones
+* AT&T/T-mobile (wireless longrange infrastructure)
+* GitHub (free storrage)
+* Google (data crawling, e-mail, maps, analytics)
+* Radio, TV (streaming)
+
 ### SubAnswer
 SubAnswer is a knowledge-sharing platform based on a distributed graph-network, some of SubAnswers goals are to:
 * Connect knowledge
@@ -32,6 +43,14 @@ SubAnswer is a knowledge-sharing platform based on a distributed graph-network, 
 * Improve programming speed
 * Educate based knowledge level (word use / technical terms, prior knowledge) 
 * Interactive
+
+SubAnswer can change how we know these services/companies/products today:
+* Wikipedia (crowd sourced knowledge management)
+* Google (data crawling, search)
+* CNN, BBC (news generation / investigations)
+* Twitter (Unified messageing)
+
+
 
 If you have any feedback, feel free to contact me on:
 morten(at)punnerud(dot)net
