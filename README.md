@@ -8,13 +8,16 @@ This way I hope to get feedback or to inspire others to build further the ideas.
 
 
 # Big Ideas
-SubAnswer
-SubAnswer is a knowledge sharing platform based on a distributed grapgh-network the goals of SubAnswer is
+
+### SubAnswer
+SubAnswer is a knowledge sharing platform based on a distributed grapgh-network, some of SubAnswers goals are to:
 * Connect knowledge
 * Get answers to the things you did not know that you needed to know, without reading duplicate information
 * Be a learning platform
+* Improve programming speed
+* Educate based knowledge level (word use / technical terms, prior knowledge) 
 
-TomatoNetwork
+### TomatoNetwork
 A decentralised open source server platform to:
 * improve network transfer speed
 * reduce mobile device cost
