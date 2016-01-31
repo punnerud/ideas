@@ -1,0 +1,13 @@
+A Raspberry Pi testsenter for SW
+
+Basic workings:
+- A master RPi that can manage other RPi's
+  - flash SD-card
+  - turn the power on/off
+  - ethernet, USB, HDMI and GPIO is connected to a special switch so the master is able to read the signals from these ports
+
+- SD-cards on slaves to master workings:
+  - Example image: http://2.bp.blogspot.com/-lw9wh_-Wd_k/VZVo1RK80nI/AAAAAAAAAds/THSJ1bL4k78/s640/SDCardLogger.jpg
+  - The GPIO wires from the master is directly connected to the SD-card when it is inserted into the slave
+  - Warning: Enable reading/writing to by the master when the slave is operating.
+    - This can be used for debugging, snap-shots, antivirus checking, data-transfer between master+slave
